@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Muhammad",
+        "hints": [
+            "He was a religious leader born in Mecca around 570 CE.",
+            "He is considered the last prophet in Islam.",
+            "He received revelations that became the Quran.",
+            "He united much of the Arabian Peninsula under Islam.",
+            "His migration to Medina is known as the Hijra."
+        ]
+    },
+    {
+        "name": "Isaac Newton",
+        "hints": [
+            "He developed the laws of motion and universal gravitation.",
+            "He invented calculus independently around the same time as Leibniz.",
+            "He published 'Principia Mathematica' in 1687.",
+            "He made significant contributions to optics and the study of light.",
+            "He was a key figure in the Scientific Revolution."
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "hints": [
+            "He is central to Christianity.",
+            "He was born in Bethlehem according to Christian tradition.",
+            "He taught parables about love, forgiveness, and faith.",
+            "He was crucified under Pontius Pilate.",
+            "Christians believe he was resurrected three days after his death."
+        ]
+    },
+    {
+        "name": "Buddha (Siddhartha Gautama)",
+        "hints": [
+            "He was born a prince in ancient India.",
+            "He renounced his wealth to seek enlightenment.",
+            "He attained enlightenment under the Bodhi tree.",
+            "He taught the Four Noble Truths.",
+            "He founded Buddhism and introduced the Eightfold Path."
+        ]
+    },
+    {
+        "name": "Confucius",
+        "hints": [
+            "He was a Chinese philosopher during the Spring and Autumn period.",
+            "His teachings emphasize ethics and social harmony.",
+            "He advocated respect for elders and family loyalty.",
+            "His ideas were recorded in the Analects.",
+            "He greatly influenced East Asian culture and governance."
+        ]
+    },
+    {
+        "name": "Paul the Apostle",
+        "hints": [
+            "He was originally named Saul and was a Roman citizen.",
+            "He converted to Christianity after a vision of Jesus.",
+            "He traveled extensively to spread Christianity.",
+            "He wrote many letters in the New Testament.",
+            "He is considered one of the most influential Christian missionaries."
+        ]
+    },
+    {
+        "name": "Cai Lun",
+        "hints": [
+            "He lived during the Han Dynasty in ancient China.",
+            "He is credited with inventing paper around 105 CE.",
+            "His invention revolutionized writing and record-keeping.",
+            "His paper-making process used tree bark and old rags.",
+            "He is honored as a significant figure in Chinese history."
+        ]
+    },
+    {
+        "name": "Johannes Gutenberg",
+        "hints": [
+            "He invented the printing press with movable type.",
+            "His invention was completed in the 15th century.",
+            "The Gutenberg Bible was the first major book printed.",
+            "His invention greatly advanced the spread of knowledge.",
+            "He is often called the father of modern printing."
+        ]
+    },
+    {
+        "name": "Christopher Columbus",
+        "hints": [
+            "He was an Italian explorer sponsored by Spain.",
+            "He made four voyages across the Atlantic Ocean.",
+            "He is credited with opening the Americas to European colonization.",
+            "He mistakenly thought he had reached Asia.",
+            "His first voyage was in 1492."
+        ]
+    },
+    {
+        "name": "Albert Einstein",
+        "hints": [
+            "He developed the theory of relativity.",
+            "He introduced the famous equation E=mc^2.",
+            "He won the Nobel Prize in Physics in 1921.",
+            "His work influenced the development of quantum mechanics.",
+            "He left Germany in 1933 to escape Nazi persecution."
+        ]
+    },
+    {
+        "name": "Louis Pasteur",
+        "hints": [
+            "He developed the process of pasteurization.",
+            "He made significant discoveries in microbiology.",
+            "He laid the foundations for germ theory.",
+            "He developed vaccines for rabies and anthrax.",
+            "He is often called the father of modern medicine."
+        ]
+    },
+    {
+        "name": "Galileo Galilei",
+        "hints": [
+            "He improved the telescope for astronomical observation.",
+            "He discovered the moons of Jupiter.",
+            "He supported the heliocentric model of the solar system.",
+            "He was tried by the Inquisition for his beliefs.",
+            "He is known as the father of modern observational astronomy."
+        ]
+    },
+    {
+        "name": "Aristotle",
+        "hints": [
+            "He was a student of Plato and teacher of Alexander the Great.",
+            "He wrote extensively on various fields, including biology and ethics.",
+            "He is considered one of the greatest philosophers in Western history.",
+            "He classified organisms in his works on biology.",
+            "His works influenced medieval scholarship and beyond."
+        ]
+    },
+    {
+        "name": "Euclid",
+        "hints": [
+            "He is known as the 'Father of Geometry.'",
+            "He wrote 'Elements,' a foundational mathematical text.",
+            "His work greatly influenced mathematics for over 2,000 years.",
+            "He lived in Alexandria, Egypt, during the Hellenistic period.",
+            "He organized mathematical knowledge into axioms and theorems."
+        ]
+    },
+    {
+        "name": "Moses",
+        "hints": [
+            "He is a prophet in Judaism, Christianity, and Islam.",
+            "He led the Israelites out of slavery in Egypt.",
+            "He received the Ten Commandments on Mount Sinai.",
+            "He is a central figure in the Exodus narrative.",
+            "He is traditionally credited with writing the Torah."
+        ]
+    },
+    {
+        "name": "Charles Darwin",
+        "hints": [
+            "He formulated the theory of evolution by natural selection.",
+            "He published 'On the Origin of Species' in 1859.",
+            "His observations were based on his voyage on the HMS Beagle.",
+            "He studied finches on the Galápagos Islands.",
+            "His work transformed the field of biology."
+        ]
+    },
+    {
+        "name": "Napoleon Bonaparte",
+        "hints": [
+            "He was a French military leader during the Revolution.",
+            "He crowned himself Emperor of the French.",
+            "He implemented the Napoleonic Code.",
+            "He expanded his empire across much of Europe.",
+            "He was exiled twice, to Elba and Saint Helena."
+        ]
+    },
+    {
+        "name": "Alexander the Great",
+        "hints": [
+            "He was the King of Macedon in ancient Greece.",
+            "He conquered the Persian Empire.",
+            "He founded many cities, including Alexandria in Egypt.",
+            "He spread Greek culture throughout his empire.",
+            "He is considered one of history's greatest military commanders."
+        ]
+    },
+    {
+        "name": "Thomas Edison",
+        "hints": [
+            "He held over 1,000 patents for his inventions.",
+            "He developed the phonograph and the light bulb.",
+            "He created the first industrial research lab.",
+            "His work laid the foundation for the electric power industry.",
+            "He was nicknamed the 'Wizard of Menlo Park.'"
+        ]
+    },
+    {
+        "name": "James Watt",
+        "hints": [
+            "He improved the design of the steam engine.",
+            "His work helped drive the Industrial Revolution.",
+            "The unit of power 'watt' is named after him.",
+            "He worked on improving engine efficiency.",
+            "He was a Scottish inventor and mechanical engineer."
+        ]
+    },
+{
+    "name": "Constantine the Great",
+    "hints": [
+        "He was the first Roman emperor to convert to Christianity.",
+        "He issued the Edict of Milan, granting religious tolerance.",
+        "He founded the city of Constantinople.",
+        "He played a key role in the Council of Nicaea.",
+        "He ended persecution of Christians in the Roman Empire."
+    ]
+},
+{
+    "name": "George Washington",
+    "hints": [
+        "He was the first President of the United States.",
+        "He led the Continental Army to victory in the American Revolution.",
+        "He presided over the Constitutional Convention in 1787.",
+        "He set the precedent of serving only two terms as President.",
+        "He is often called the 'Father of His Country.'"
+    ]
+},
+{
+    "name": "Karl Marx",
+    "hints": [
+        "He co-authored 'The Communist Manifesto' with Friedrich Engels.",
+        "He developed the theory of historical materialism.",
+        "His work laid the foundation for Marxism.",
+        "He wrote 'Das Kapital,' analyzing capitalism.",
+        "His ideas influenced socialist and communist movements worldwide."
+    ]
+},
+{
+    "name": "Orville and Wilbur Wright",
+    "hints": [
+        "They were pioneers in aviation.",
+        "They made the first successful powered flight in 1903.",
+        "Their aircraft was named the Wright Flyer.",
+        "They were self-taught engineers and inventors.",
+        "Their work revolutionized transportation worldwide."
+    ]
+},
+{
+    "name": "Genghis Khan",
+    "hints": [
+        "He was the founder of the Mongol Empire.",
+        "He united the Mongol tribes into a powerful army.",
+        "His empire became the largest contiguous empire in history.",
+        "He promoted trade and cultural exchange along the Silk Road.",
+        "He was known for his military genius and conquests."
+    ]
+},
+{
+    "name": "Adam Smith",
+    "hints": [
+        "He is known as the father of modern economics.",
+        "He wrote 'The Wealth of Nations' in 1776.",
+        "He introduced the concept of the 'invisible hand.'",
+        "His work laid the foundation for free-market economics.",
+        "He emphasized the importance of division of labor."
+    ]
+},
+{
+    "name": "William Shakespeare",
+    "hints": [
+        "He was an English playwright and poet.",
+        "His works include 'Hamlet,' 'Macbeth,' and 'Romeo and Juliet.'",
+        "He is often called the 'Bard of Avon.'",
+        "He wrote 154 sonnets and 39 plays.",
+        "His works have been translated into every major language."
+    ]
+},
+{
+    "name": "John Dalton",
+    "hints": [
+        "He developed the atomic theory of matter.",
+        "He researched color blindness, sometimes called Daltonism.",
+        "He made significant contributions to meteorology.",
+        "He identified chemical compounds as combinations of atoms.",
+        "His atomic theory revolutionized chemistry."
+    ]
+},
+{
+    "name": "Alexander Fleming",
+    "hints": [
+        "He discovered penicillin in 1928.",
+        "His discovery revolutionized the treatment of bacterial infections.",
+        "He won the Nobel Prize in Physiology or Medicine in 1945.",
+        "His work laid the foundation for modern antibiotics.",
+        "He made his discovery accidentally while working with mold."
+    ]
+},
+{
+    "name": "Antoine Lavoisier",
+    "hints": [
+        "He is known as the 'Father of Modern Chemistry.'",
+        "He discovered the role of oxygen in combustion.",
+        "He helped develop the metric system.",
+        "He identified and named hydrogen and oxygen.",
+        "He was executed during the French Revolution."
+    ]
+},
+{
+    "name": "Sigmund Freud",
+    "hints": [
+        "He is the father of psychoanalysis.",
+        "He introduced the concept of the unconscious mind.",
+        "He developed therapeutic techniques like dream analysis.",
+        "He proposed the id, ego, and superego model of the mind.",
+        "His work influenced psychology and popular culture."
+    ]
+},
+{
+    "name": "Plato",
+    "hints": [
+        "He was a student of Socrates and teacher of Aristotle.",
+        "He founded the Academy in Athens.",
+        "He wrote philosophical dialogues like 'The Republic.'",
+        "He introduced the concept of ideal forms or ideas.",
+        "His works laid the foundation for Western philosophy."
+    ]
+},
+{
+    "name": "Alexander Graham Bell",
+    "hints": [
+        "He invented the telephone in 1876.",
+        "He founded the Bell Telephone Company.",
+        "He was also a teacher for the deaf.",
+        "His invention revolutionized communication worldwide.",
+        "He continued to work on inventions in aeronautics and hydrofoils."
+    ]
+},
+{
+    "name": "Vladimir Lenin",
+    "hints": [
+        "He was the leader of the Bolshevik Revolution in Russia.",
+        "He became the first head of the Soviet state.",
+        "He developed the political theory of Leninism.",
+        "He played a key role in the Russian Civil War.",
+        "He advocated for proletarian revolution and socialism."
+    ]
+},
+{
+    "name": "Martin Luther",
+    "hints": [
+        "He was a German monk and theologian.",
+        "He nailed his Ninety-Five Theses to a church door in 1517.",
+        "He sparked the Protestant Reformation.",
+        "He translated the Bible into German.",
+        "He emphasized salvation through faith alone."
+    ]
+},
+{
+    "name": "Nicolas Copernicus",
+    "hints": [
+        "He developed the heliocentric model of the universe.",
+        "His model placed the Sun at the center, not the Earth.",
+        "His work challenged traditional Ptolemaic astronomy.",
+        "He published 'On the Revolutions of the Celestial Spheres.'",
+        "His ideas laid the foundation for modern astronomy."
+    ]
+},
+{
+    "name": "James Clerk Maxwell",
+    "hints": [
+        "He developed the theory of electromagnetism.",
+        "His equations describe electric and magnetic fields.",
+        "He made significant contributions to the study of light.",
+        "His work paved the way for quantum theory.",
+        "He is considered one of the greatest physicists in history."
+    ]
+},
+{
+    "name": "Leonardo da Vinci",
+    "hints": [
+        "He was a Renaissance polymath and artist.",
+        "He painted 'Mona Lisa' and 'The Last Supper.'",
+        "He made contributions to anatomy and engineering.",
+        "He sketched designs for flying machines and other inventions.",
+        "He is considered one of history's greatest geniuses."
+    ]
+},
+{
+    "name": "Thomas Jefferson",
+    "hints": [
+        "He was the third President of the United States.",
+        "He authored the Declaration of Independence.",
+        "He completed the Louisiana Purchase in 1803.",
+        "He founded the University of Virginia.",
+        "He was a strong advocate for democracy and individual rights."
+    ]
+},
+{
+    "name": "Jean-Jacques Rousseau",
+    "hints": [
+        "He was a French Enlightenment philosopher.",
+        "He wrote 'The Social Contract.'",
+        "He emphasized the concept of popular sovereignty.",
+        "His ideas influenced the French Revolution.",
+        "He believed in the innate goodness of humanity."
+    ]
+}
+]
