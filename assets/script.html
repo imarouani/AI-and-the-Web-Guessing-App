@@ -1,0 +1,7 @@
+<button class="center-button" id="play-button">Play</button>
+<script>
+    // Send a message to Streamlit when the button is clicked
+    document.getElementById('play-button').addEventListener('click', () => {
+        window.parent.postMessage({isStreamlit: true, action: 'playButtonClick'}, '*');
+    });
+</script>

@@ -47,17 +47,13 @@ if guess:
         st.balloons()
         st.success(f"Correct! The answer was: {correct_name}")
         # Load a new goal and reset hints
-        stsession_state.goal = get_random_person(people)
+        st.session_state.goal = get_random_person(people)
         st.session_state.hint_index = 0  # Reset hint index for new person
     else:
         # Calculate how many characters off the guess is
         char_diff = calculate_character_difference(guess.strip(), correct_name)
         remaining_guesses = len(current_person["hints"]) - current_hint_index - 1
-        
-        ###if char_diff <= 2:
-        ###    st.warning(f"You're very close! Your guess is {char_diff} characters off.")
-        ###else:
-        ###    st.warning("Incorrect! Try again.")
+    
         
         # Display number of guesses left
         if remaining_guesses > 0:
