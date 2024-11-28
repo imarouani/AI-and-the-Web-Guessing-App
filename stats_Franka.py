@@ -26,9 +26,9 @@ number_of_non_capitals_current = 32
 number_of_non_capitals_previous = 12
 
 #update on every guess
-distance_target_named = CHATGPT 
-how_far_off = [200, 500, 1000, 2]
-average_far_off = mean (how_far_off)
+#distance_target_named = CHATGPT 
+#how_far_off = [200, 500, 1000, 2]
+#average_far_off = mean (how_far_off)
 
 #Update upon completon on every round
 # Display the bar chart using st.bar_chart
@@ -48,7 +48,7 @@ st.bar_chart(
 # Display averages, total rounds, accuracy
 
 col1, col2 = st.columns(2)
-col1.metric(label="Average Guesses per Game", value=f"{average_guesses_updated:.2f}", delta=delta, delta_color="inverse")
+col1.metric(label="Average Guesses per Game", value=f"{average_guesses_current:.2f}", delta=delta, delta_color="inverse")
 col2.metric(label="Total Rounds", value=number_of_rounds)
 
 
